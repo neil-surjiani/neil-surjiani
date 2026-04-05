@@ -11,7 +11,7 @@ Every line of code, every design decision, every deployment.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-neil--surjiani.github.io-c9a84c?style=flat-square)](https://neil-surjiani.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-neil--surjiani.github.io-c9a84c?style=flat-square)](https://neil-surjiani.github.io/portfolio-website)
 [![Instagram](https://img.shields.io/badge/Instagram-@neilsurjiani28-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/neilsurjiani28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-neil--surjiani-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/neil-surjiani)
 [![Email](https://img.shields.io/badge/Email-surjianineil@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:surjianineil@gmail.com)
