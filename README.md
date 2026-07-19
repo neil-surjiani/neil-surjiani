@@ -39,37 +39,6 @@ Built solo. Full-stack: app, backend, infrastructure, design system — everythi
 
 ---
 
-## ✈️ TripWise
-
-> Full trip planning platform — viability reports, AI itineraries, flights & hotels, group co-op, packing lists, and a live travel companion, all in one place.
-
-`Next.js` `FastAPI` `Python` `Supabase` `OpenAI GPT-4o` `Amadeus API`
-
----
-
-## ✨ FolioAI &nbsp;·&nbsp; [tryfolioai.vercel.app](https://tryfolioai.vercel.app/builder)
-
-> AI-powered portfolio, website, and resume builder — describe yourself, pick a style, get a deployed site in minutes.
-
-`Next.js` `React` `TypeScript` `Gemini AI` `Tailwind CSS` `Vercel`
-
----
-
-## ⚡ EVMate &nbsp;·&nbsp; [Live](https://evmate-8ce3d.firebaseapp.com/)
-
-> EV ownership and charging platform.
-> Real-time charger data, smart AI-generated trip itineraries, and full vehicle tracking — an intelligent companion, not just a map.
-
-`Flutter` `Firebase` `Dart` `OpenStreetMap` `Gemini AI`
-
----
-
-## 🧭 More from Apex Ventures
-
-**NutriSense** · **UniPilot** · **InboxOS** — in the lab, part of the same studio.
-
----
-
 ## 🛠️ How I Build
 
 ```
@@ -95,7 +64,7 @@ Languages      →   Python · Java · Flutter/Dart
 <div align="center">
 <br>
 
-*Built from scratch. Shipped alone. Age 16.*
+*Built from scratch. Shipped alone. Age 17.*
 
 <br>
 </div>
