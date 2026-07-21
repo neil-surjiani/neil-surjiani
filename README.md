@@ -2,7 +2,7 @@
 <br>
 
 # Neil Surjiani
-**Solo founder. Full-stack developer. 16 years old.**
+**Solo founder. Full-stack developer.**
 
 Building AI-powered products from scratch — alone.
 Every line of code, every design decision, every deployment.
